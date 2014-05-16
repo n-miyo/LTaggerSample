@@ -1,4 +1,4 @@
-LTaggerSample
+LTaggerSample [![Build Status](https://travis-ci.org/n-miyo/LTaggerSample.png?branch=master)](https://travis-ci.org/n-miyo/LTaggerSample)
 ====================
 
 
